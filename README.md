@@ -67,9 +67,9 @@ with actionable recommendations.
 ---
 
 ## Project Files (included)
-- `Dashboard.xlsx` — interactive dashboard file
-- `/datasets/` — raw data files used for analysis (CSV / XLSX)
-- `Presentation.pdf` — boardroom slide deck (10–12 slides)
+- City Hospital Dashboard.xlsx — interactive dashboard file
+- City Hospital Dataset.xlsx — raw data files used for analysis (CSV / XLSX)
+- HOSPITAL OPERATIONS ANALYSIS_JaniceOgechi — boardroom slide deck (10–12 slides)
 - `README.md` — this documentation
 
 ---
